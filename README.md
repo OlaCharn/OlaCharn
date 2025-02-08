@@ -2,7 +2,7 @@
 
 💻 I’m currently working on **[YogaGirls](https://www.yogagirlslessonplan.com)** – an app designed to empower women in yoga.  
 
-🌱 I’m learning **Flutter** to expand my mobile development skills.  
+🌱 I’m learning **React Native** to expand my mobile development skills.  
 
 🤩 I’m open to opportunities as a **Full Stack Developer** (remote or hybrid) in **Berlin**.  
 
