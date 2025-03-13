@@ -48,16 +48,9 @@
 <a href="https://linkedin.com/in/volha-charnukha" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>  
-<a href="https://instagram.com/yoga_girl_in_it" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>  
+
 </div>  
 
 ---
 
-## ❤️ Support My Work  
-<div align="center">
-<a href="https://ko-fi.com/volhayalloo" target="_blank">
-<img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>  
-</div>  
+
