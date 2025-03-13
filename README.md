@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
   <a href="https://charnukha.de" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-%23FFA500.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
